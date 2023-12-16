@@ -1,0 +1,40 @@
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(250, 160, 250);
+    height: 100px;
+    font-size: 45px;
+}
+
+.bar{
+    background-color:#77009b;
+    color: #fff;
+    font-size: 20px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body{
+    display: flex;
+    background-color: gray;
+    color: #fff;
+    height: 550px;
+    font-size: 18px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(211, 88, 211);
+    height: 50px;
+    font-size: 35px;
+}
